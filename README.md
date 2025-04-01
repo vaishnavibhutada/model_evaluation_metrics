@@ -13,17 +13,6 @@ This repository demonstrates the use of various metrics and scoring techniques t
 
 **Graph Plotting**: Visualizes model performance using line plots, scatter plots, and confusion matrices.
 
-# 📂 Project Structure
-
-model_evaluation_metrics/
-│── datasets/                # Sample datasets (if applicable)
-│── scripts/
-│   ├── regression_analysis.py  # Regression evaluation metrics
-│   ├── classification_eval.py  # Classification metrics and confusion matrix
-│   ├── visualization.py        # Graph plotting for evaluation
-│── model_evaluation_metrics.ipynb  # Jupyter notebook with full implementation
-│── README.md                   # Project documentation
-│── requirements.txt             # Dependencies
 
 # 🚀 Getting Started
 
