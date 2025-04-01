@@ -29,7 +29,7 @@ model_evaluation_metrics/
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/model_evaluation_metrics.git
+git clone https://github.com/vaishnavibhutada/model_evaluation_metrics.git
 cd model_evaluation_metrics
 
 **Install dependencies:**
